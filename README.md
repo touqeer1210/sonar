@@ -1,3 +1,5 @@
+
+
 This example demonstrates how to analyze a simple project built with gradle.
 
 Prerequisites
